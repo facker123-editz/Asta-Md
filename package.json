@@ -81,3 +81,16 @@
           },
           "homepage": "https://github.com/Astropeda/Asta-Md#readme"
 }
+{
+    "name": "whatsapp-md-bgm-plugin",
+    "version": "1.0.0",
+    "main": "index.js",
+    "dependencies": {
+        "baileys": "^5.x.x",
+        "fs": "^0.0.1-security",
+        "path": "^0.12.7"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}
